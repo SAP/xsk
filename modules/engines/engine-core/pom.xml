@@ -175,6 +175,12 @@
             <version>0.2.0</version>
             <scope>compile</scope>
         </dependency>
+		<dependency>
+			<groupId>com.sap.xsk</groupId>
+			<artifactId>xsk-modules-parsers-hdbtable</artifactId>
+			<version>0.2.0</version>
+			<scope>compile</scope>
+		</dependency>
     </dependencies>
 
 </project>
